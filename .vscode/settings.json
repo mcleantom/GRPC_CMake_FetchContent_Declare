@@ -1,0 +1,6 @@
+{
+    "other": "settings",
+    "cmake.configureArgs": [
+        "-DGRPC_FETCHCONTENT=ON"
+    ]
+}
